@@ -1,5 +1,6 @@
 # 
-```ruby
+
+
 public class Door : MonoBehaviour
 {
     public enum DoorType { Up, Down, Right, Left, DoorMax };
@@ -37,5 +38,3 @@ public class Door : MonoBehaviour
 
     public bool nowdoorlocked;
 }
-
-```
