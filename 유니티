@@ -19,3 +19,11 @@ ScriptableObject는 데이터 관리 및 공유를 효율적으로 적합<br>
 
 
 
+dll를 사용해라 <br>
+스크립트에서 파일 > 새로만들기 > 프로젝트 > 클래스 라이브러리를 선택후 <br>
+지정한 코딩을 만든 후 Ctrl + Shift + B (빌드 단축키)를 한다. <br>
+bin/Debug/ 또는 bin/Release/ 폴더에 .dll 파일이 생성 <br>
+dll 파일을 Unity 프로젝트의 Assets/Plugins/ 폴더에 복사 <br>
+
+
+
